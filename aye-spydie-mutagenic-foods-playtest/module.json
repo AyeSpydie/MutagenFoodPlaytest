@@ -28,5 +28,7 @@
       "system": "pf2e"
     }
   ],
-  "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest"
+  "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest",
+  "manifest": "https://raw.githubusercontent.com/AyeSpydie/MutagenFoodPlaytest/master/module.json",
+  "download": "https://github.com/AyeSpydie/MutagenFoodPlaytest/archive/refs/heads/main.zip"
 }
