@@ -10,26 +10,23 @@
   "authors": [
     {
       "name": "Aye Spydie",
-      "discord": "ayespydie",
       "email": "ayespydie@gmail.com",
-      "flags": {}
+      "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest",
+      "discord": "ayespydie"
     }
   ],
   "packs": [
     {
-      "name": "mutagenic-foods",
-      "label": "Mutagenic Foods",
-      "path": "packs/mutagenic-foods",
+      "name": "aye-spydie-mutagenic-foods",
+      "label": "Aye Spydie Mutagenic Foods",
+      "path": "packs/aye-spydie-mutagenic-foods",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "pf2e",
-      "flags": {}
+      "system": "pf2e"
     }
   ],
-  "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest",
-  "manifest": "https://github.com/AyeSpydie/MutagenFoodPlaytest/blob/main/aye-spydie-mutagenic-foods-playtest/module.json",
-  "download": "https://github.com/AyeSpydie/MutagenFoodPlaytest/archive/refs/heads/main.zip"
+  "url": "https://github.com/AyeSpydie/MutagenFoodPlaytest"
 }
